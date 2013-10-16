@@ -9,9 +9,11 @@ This is a testbed application for diferent parsers, its current uses include:
 
 2) A Email parsing tool
 
-3) A Quantum Chemistry, basis exchange file parsing tool for the HaskellFock Project (https://github.com/felipeZ/Haskell-abinitio)
+3) A Computational Chemistry, basis exchange file parsing tool for the HaskellFock Project (https://github.com/felipeZ/Haskell-abinitio)
 
-This app is based around another toy of us called BareBones (to be releases) a complete Haskell console
-application, with built-in geopt capabilities and other goodies.
+4) A Computational Chemistry, Molcas outputs poarser tool
+
+This app is based around another toy of us called BareBones (to be released) a complete Haskell console
+application, with built-in get-opt capabilities and other goodies.
 
 If you find these bits useful. please let us know!
