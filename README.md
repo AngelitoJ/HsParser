@@ -1,4 +1,4 @@
-HsGenParser
+HsParser
 ===========
 
 A universal Parsec based, parser toy inspired by pandoc and aimed at parsing heterogeneous formats
