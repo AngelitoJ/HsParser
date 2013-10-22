@@ -5,17 +5,15 @@ A universal Parsec based, parser toy inspired by pandoc and aimed at parsing het
 
 This is a testbed application for diferent parsers, its current uses include:
 
-1) A Generic parsing tool aimed at automatic parsec based generation of line oriented formats
+1) A Universal parser tool aimed at automatic parsec based generation of line oriented formats
 
-2) A Email parsing tool
+2) A genereic Email envelope parsing tool
 
-3) A Computational Chemistry, basis exchange file parsing tool for the HaskellFock Project (https://github.com/felipeZ/Haskell-abinitio)
+3) A Computational Chemistry:
+  - EMSL basis exchange files, used in the HaskellFock Project (https://github.com/felipeZ/Haskell-abinitio)
+  - Molcas output parser tool, used in HsDynamics (https://github.com(AngelitoJ/HsDynamics)
+  - Gaussian 2k3 Chekpointing parsing tool, used in HsDynamics
 
-4) A Computational Chemistry, Molcas outputs poarser tool
+This app is based around another of my pets projectscalled HsApp (The BareBones app) 
 
-This app is based around another toy of us called BareBones (to be released) a complete Haskell console
-application, with built-in get-opt capabilities and other goodies.
-
-
-
-If you find these bits useful. please let us know!
+If you find these bits useful. please let me know!
