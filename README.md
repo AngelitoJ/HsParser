@@ -11,7 +11,7 @@ This is a testbed application for diferent parsers, its current uses include:
 
 3) A Computational Chemistry:
   - EMSL basis exchange files, used in the HaskellFock Project (https://github.com/felipeZ/Haskell-abinitio)
-  - Molcas output parser tool, used in HsDynamics (https://github.com(AngelitoJ/HsDynamics)
+  - Molcas output parser tool, used in HsDynamics (https://github.com/AngelitoJ/HsDynamics)
   - Gaussian 2k3 Chekpointing parsing tool, used in HsDynamics
 
 This app is based around another of my pets projectscalled HsApp (The BareBones app) 
